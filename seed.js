@@ -141,10 +141,76 @@ const seedMoons = [
         planet: "Saturn"
     },
     {
-        name: "",
-        history: "",
-        diameter: ,
-        planet: ""
+        name: "Ariel",
+        history: "Ariel is the name for a character in both Shakespeare's 'The Tempest' and Pope's poem 'The Rape of the Lock.'",
+        diameter: 1157.8,
+        planet: "Uranus"
+    },
+    {
+        name: "Miranda",
+        history: "Miranda was amed after Miranda from William Shakespeare's play 'The Tempest'.",
+        diameter: 471.6,
+        planet: "Uranus"
+    },
+    {
+        name: "Titania",
+        history: "Titania is named for the queen of the fairies in William Shakespeare's 16th century play 'A Midsummer Night's Dream.'",
+        diameter: 1576.8,
+        planet: "Uranus"
+    },
+    {
+        name: "Oberon",
+        history: "Named by Herschel's son John in early 19th century for the king of the fairies in Shakespeare's 'A Midsummer Night's Dream.'",
+        diameter: 1522.8,
+        planet: "Uranus"
+    },
+    {
+        name: "Umbriel",
+        history: "Umbriel is named for a malevolent spirit in English poet Alexander Pope's 18th century poem 'Rape of the Lock.'",
+        diameter: 1169.4,
+        planet: "Uranus"
+    },
+    {
+        name: "Naiad",
+        history: "Naiad is named after a type of nymph who presided over fountains, wells, springs, streams, and brooks in Greek mythology.",
+        diameter: 66,
+        planet: "Neptune"
+    },
+    {
+        name: "Thalassa",
+        history: "Thalassa was named after a daughter of Aether and Hemera from Greek mythology.",
+        diameter: 82,
+        planet: "Neptune"
+    },
+    {
+        name: "Despina",
+        history: "Despina is a daughter of Poseidon (the Roman god Neptune) and Demeter.",
+        diameter: 150,
+        planet: "Neptune"
+    },
+    {
+        name: "Galatea",
+        history: "Galatea was a sea nymph who attended to Poseidon (the Roman god Neptune).",
+        diameter: 174.8,
+        planet: "Neptune"
+    },
+    {
+        name: "Larissa",
+        history: "It is named after Larissa, a lover of Poseidon (Neptune) in Greek mythology and eponymous nymph of the city in Thessaly, Greece.",
+        diameter: 194,
+        planet: "Neptune"
+    },
+    {
+        name: "Hippocamp",
+        history: "The moon is named after the hippocampus, a mythological creature depicted as having the upper body of a horse with the lower body of a fish in Greek mythology. The hippocampus symbolizes the Greek sea god Poseidon as well as the Roman sea god Neptune.",
+        diameter: 18,
+        planet: "Neptune"
+    },
+    {
+        name: "Proteus",
+        history: "Proteus is named after the shape-changing sea god of Greek mythology.",
+        diameter: 420,
+        planet: "Neptune"
     },
 ]
 
